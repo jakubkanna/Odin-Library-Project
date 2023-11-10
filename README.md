@@ -1,1 +1,1 @@
-[[# Odin-Library-Project](https://www.theodinproject.com/lessons/node-path-javascript-library)](https://www.theodinproject.com/lessons/node-path-javascript-library)https://www.theodinproject.com/lessons/node-path-javascript-library)
+[[[[# Odin-Library-Project](https://www.theodinproject.com/lessons/node-path-javascript-library)]
